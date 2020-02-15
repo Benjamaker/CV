@@ -16,6 +16,10 @@ Being naturally adventurous and fascinated with diversity, I do my best to see a
 
 The first thing that learning code has taught me is that all complex problems are solveable when approached correctly. I love the challenge of looking at a problem's component parts, formulating ideas about the best approach and selecting opportunities to solve small parts of the bigger problem.
 
+#### Communication
+
+I have frequently been told I'm an excellent communicator. In over 7 years working in client facing roles, I have honed these skills to get the best out of relationships with other humans. I believe great communication is as much about listening and asking good questions as it is about what I have to say. This allows me to make sure my input is valuable. I believe this makes me to be especially effective when pair programming and discussing code problems with colleagues.
+
 #### Leadership 
 
 In my role as Recruitment Manager at Little Ones UK, I gained significant experience as a leader. I had the opportunity to build a sales team from scratch and ended up with 13 reports. In this time I hired my own people, looked after P&L for the team and learned a whole lot about how to get the best out of people through effective collaboration. A good leader enables their team to maximise their potential and whilst there were many significant achievements in terms of financial targets in this time, I'd say my biggest achievement was developing people who worked for me to create similar opportunities for themselves.
