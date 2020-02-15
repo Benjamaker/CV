@@ -1,7 +1,5 @@
 ## Benjamin Galley
 
-[Profile](github.com/Benjamaker/CV/README.md#junior-full-stack-web-developer)
-
 #### Junior Full Stack Web Developer 
 
 I recently read a blog which said the no.1 skill required of developers in 2019 was curiosity. Well we all know what they say about curiosity. Good job I'm a human and not a cat, I thought. 
