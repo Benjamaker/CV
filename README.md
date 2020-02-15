@@ -34,6 +34,16 @@ Native English speaker / Fluent French speaker
 
 #### Tech Skills: Ruby, Rails, Python, HTML
 
+## Projects
+
+|**To**        | **Be**       |**Continued..** |
+|:------------:|:------------:|:------------:|
+|              |              |              |
+|              |              |              |
+|              |              |              |
+
+You can see all my code at [GitHub](github.com/Benjamaker)
+
 ## Education
 
 #### Makers Academy (Jan 2020 - May 2020)
