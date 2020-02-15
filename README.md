@@ -18,7 +18,7 @@ The first thing that learning code has taught me is that all complex problems ar
 
 #### Communication
 
-I have frequently been told I'm an excellent communicator. In over 7 years working in client facing roles, I have honed these skills to get the best out of relationships with other humans. I believe great communication is as much about listening and asking good questions as it is about what I have to say. This allows me to make sure my input is valuable. I believe this makes me to be especially effective when pair programming and discussing code problems with colleagues.
+I have frequently been told I'm an excellent communicator. In over 7 years working in client facing roles, I honed these skills to get the best out of relationships with other humans. I believe great communication is as much about listening and asking good questions as it is about what I have to say. This allows me to make sure my input is valuable. I believe this makes me to be especially effective when pair programming and discussing code problems with colleagues.
 
 #### Leadership 
 
