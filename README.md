@@ -67,4 +67,14 @@ You can see all my code at [GitHub](github.com/Benjamaker)
 
 ## Hobbies
 
-Adventures in the great outdoors, snowboarding, science, music, dancing, cooking, sports, interesting conversations with other humans.
+ #### Adventures in the great outdoors 
+   - Snowboarding (2 winter seasons in the French Alps)
+   - Hiking (Recent trips to Isle of Skye and The Atlas Mountains
+ #### Music and Dancing
+   - Set up a collective for the best club nights in London for electronic music amongst friends
+ #### Cooking
+   - Passionate about food and have dabbled in events and pop-ups
+ #### Sports 
+   - Football mad, Tennis (table and full size), all weather Golfer, Half Marathon runner
+ #### Interesting conversations with other humans
+   - *"Everyone you meet knows something you don't know"*
