@@ -1,6 +1,6 @@
 ## Benjamin Galley
 
-[Profile](github.com/Benjamaker/CV/blob/master/README.md#junior-full-stack-web-developer)    -    [Skills & Experience](github.com/Benjamaker/CV/blob/master/README.md#skills--experience)    -    [Education](github.com/Benjamaker/CV/blob/master/README.md#education)    -    [Hobbies](github.com/Benjamaker/CV/blob/master/README.md#hobbies)
+[Profile](github.com/Benjamaker/CV/README.md#junior-full-stack-web-developer)    -    [Skills & Experience](github.com/Benjamaker/CV/README.md#skills--experience)    -    [Education](github.com/Benjamaker/CV/README.md#education)    -    [Hobbies](github.com/Benjamaker/CV/README.md#hobbies)
 
 #### Junior Full Stack Web Developer 
 
