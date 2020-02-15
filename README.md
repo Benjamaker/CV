@@ -69,7 +69,7 @@ You can see all my code at [GitHub](github.com/Benjamaker)
 
  #### Adventures in the great outdoors 
    - Snowboarding (2 winter seasons in the French Alps)
-   - Hiking (Recent trips to Isle of Skye and The Atlas Mountains
+   - Hiking (Recent trips to Isle of Skye and The Atlas Mountains)
  #### Music and Dancing
    - Set up a collective for the best club nights in London for electronic music amongst friends
  #### Cooking
