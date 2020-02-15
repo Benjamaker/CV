@@ -1,6 +1,6 @@
 ## Benjamin Galley
 
-[Profile](github.com/Benjamaker/CV/edit/master/README.md#Junior-Full-Stack-Web-Developer)
+[Profile](github.com/Benjamaker/CV/blob/master/README.md#Junior-Full-Stack-Web-Developer)
 
 #### Junior Full Stack Web Developer 
 
