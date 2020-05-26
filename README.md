@@ -2,7 +2,7 @@
 
 #### Junior Full Stack Web Developer 
 
-Current student at the infamous MAKERS Academy. 
+Graduated in May 2020 from the infamous MAKERS Academy. 
 
 ## Profile
 
