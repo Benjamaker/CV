@@ -6,13 +6,13 @@ Graduated in May 2020 from the infamous MAKERS Academy.
 
 ## Profile
 
-I recently read a blog which said the no.1 skill required of developers in 2019 was curiosity. Well we all know what they say about curiosity. Good job I'm a human and not a cat, I thought. 
+I recently read a blog which said the no.1 skill required of developers in 2019 was curiosity. Well we all know what they say about curiosity. Thankfully I'm a human and not a cat. 
 
-I've always been inately curious, but this accelerated infinitely when I started learning to code around 2 years ago. I am consumed by the idea that with code, I can never stop learning.
+I've always been innately curious, but this accelerated infinitely when I started learning to code in 2018. I am consumed by the idea that with code, I can never stop learning.
 
 I ask 'why?' first, then 'how?'.
 
-Being naturally adventurous and fascinated with diversity, I do my best to see all new opportuities, challenges and experiences as positive. It was this that helped me take the leap to change careers and join MAKERS - the no.1 software development bootcamp in Europe - despite a succesful career in sales and recruitment. I felt unfulfilled, that my learning had stagnated and that I wasn't contributing enough. Now I'm on a mission to design and build web applications that solve real problems and deliver a net positive to the world!
+Being naturally adventurous and fascinated with diversity, I do my best to see all new opportunities, challenges and experiences as positive. It was this that helped me take the leap to change careers and join MAKERS - the no.1 software development bootcamp in Europe - despite a successful career in sales and recruitment. I felt unfulfilled, that my learning had stagnated and that I wasn't contributing enough to society. Now I'm on a mission to design and build web applications that solve real problems and deliver a net positive to the world!
 
 ## Skills & Experience
 
