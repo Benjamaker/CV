@@ -36,15 +36,15 @@ At both Ntrinsic and Little Ones UK, I joined companies at an early stage lookin
 
 Native English speaker / Fluent French speaker
 
-#### Tech Skills: Ruby, Rails, Python, HTML
+#### Tech Skills: Javascript, React, Ruby, Rails, Python, HTML, SQL, CSS, CI/CD
 
 ## Projects
 
-|**To**        | **Be**       |**Continued..** |
+|**Name/Repo**       | **Tech**       |**Description** |
 |:------------:|:------------:|:------------:|
-|              |              |              |
-|              |              |              |
-|              |              |              |
+| [Taped It](https://github.com/voice-notes/web) | Typescript, React | Front-end app for voice-memo Slack integration |
+| [Pocket Positivity](https://github.com/basselalsayed/pocket_positivity | React-Native, Expo, Node.js | 'Hack for Heroes' winning entry - Mental Health tracker |
+| [Bookmark Manager](https://github.com/Benjamaker/bookmark-reloaded) | Ruby, PostgreSQL, Sinatra | Bookmark manager. Full stack web app |
 
 You can see all my code at [GitHub](github.com/Benjamaker)
 
