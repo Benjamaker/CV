@@ -43,7 +43,7 @@ Native English speaker / Fluent French speaker
 |**Name/Repo**       | **Tech**       |**Description** |
 |:------------:|:------------:|:------------:|
 | [Taped It](https://github.com/voice-notes/web) | Typescript, React | Front-end app for voice-memo Slack integration |
-| [Pocket Positivity](https://github.com/basselalsayed/pocket_positivity | React-Native, Expo, Node.js | 'Hack for Heroes' winning entry - Mental Health tracker |
+| [Pocket Positivity](https://github.com/basselalsayed/pocket_positivity) | React-Native, Expo, Node.js | 'Hack for Heroes' winning entry - Mental Health tracker |
 | [Bookmark Manager](https://github.com/Benjamaker/bookmark-reloaded) | Ruby, PostgreSQL, Sinatra | Bookmark manager. Full stack web app |
 
 You can see all my code at [GitHub](github.com/Benjamaker)
