@@ -3,6 +3,7 @@
 #### Junior Full Stack Web Developer 
 
 Graduated in May 2020 from the infamous MAKERS Academy. 
+Winner - 'Hack for Heroes', June 2020 Hackathon to help key workers during Covid-19 pandemic.
 
 ## Profile
 
