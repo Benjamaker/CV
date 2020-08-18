@@ -2,7 +2,7 @@
 
 #### Junior Full Stack Web Developer 
 
-Graduated in May 2020 from the infamous MAKERS Academy. 
+Graduated in May 2020 from the world famous MAKERS Academy. 
 
 Winner - 'Hack for Heroes', June 2020 Hackathon to help key workers during Covid-19 pandemic.
 
@@ -17,6 +17,11 @@ I ask 'why?' first, then 'how?'.
 Being naturally adventurous and fascinated with diversity, I do my best to see all new opportunities, challenges and experiences as positive. It was this that helped me take the leap to change careers and join MAKERS - the no.1 software development bootcamp in Europe - despite a successful career in sales and recruitment. I felt unfulfilled, that my learning had stagnated and that I wasn't contributing enough to society. Now I'm on a mission to design and build web applications that solve real problems and deliver a net positive to the world!
 
 ## Skills & Experience
+
+#### [Curation](https://www.curationcorp.com/) | August 2020 - present
+
+Temporary contract helping prepare mobile app for beta release. Fixing bugs, building front-end features and following agile workflows.
+Tech stack: React-Native, Expo, GraphQL, TypeScript
 
 #### Complex Problem Solving
 
